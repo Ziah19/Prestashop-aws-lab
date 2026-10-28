@@ -2,7 +2,6 @@
 
 Region used throughout: **Europe (Stockholm), eu-north-1**. AWS has no Nigeria region, Stockholm was the account default, and it supports the free-tier instance types used here.
 
-> Replace names, passwords and addresses with your own. Never commit passwords, key files or account IDs.
 
 ## 1. Account and budget alert
 
