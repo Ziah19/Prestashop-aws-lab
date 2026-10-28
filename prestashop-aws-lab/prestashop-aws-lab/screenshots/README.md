@@ -1,9 +1,5 @@
 # Screenshots
 
-Add your screenshots to this folder, using the file names below, and they can be linked from the main README.
-
-Before committing, check every image for private details: AWS account ID (it appears in the browser address bar and in some "Owner" fields), email addresses, passwords, key files, and the secret admin folder name. Crop or blur anything you find.
-
 | File | Shows |
 |---|---|
 | `01-budget-created.png` | Zero-spend budget created |
@@ -17,4 +13,3 @@ Before committing, check every image for private details: AWS account ID (it app
 | `22-database-connection.png` | Installer connected to the separate database |
 | `23-shop-front-page.png` | Working storefront at the public address |
 
-Optional extras: `19-php-and-apache-installed.png`, `24-install-folder-removed.png`, `17-connected-to-server.png`.
